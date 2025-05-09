@@ -1,6 +1,6 @@
 # Expense Management System
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.An expense tracking system is a tool or software designed to help individuals or organizations monitor, record, categorize, and analyze their spending.
 
 
 ## Project Structure
