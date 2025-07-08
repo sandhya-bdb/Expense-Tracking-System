@@ -1,6 +1,6 @@
 💸 Expense Management System
 A full-stack Python application that empowers users to track, manage, and analyze their expenses seamlessly. Leveraging FastAPI for a high-performance backend and Streamlit for an intuitive frontend, this system offers real-time insights into your spending habits.
-LinkedIn
+
 
 🚀 Features
 Expense Recording: Add, update, or delete expenses with details like amount, category, and notes.
